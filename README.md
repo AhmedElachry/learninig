@@ -1,2 +1,2 @@
-# learninig
-learninig-git-github
+# learning
+learning-git-github
